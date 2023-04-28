@@ -1,0 +1,5 @@
+[28-Apr-2023 10:33:17 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_all(): Argument #1 ($result) must be of type mysqli_result, bool given in /home1/revistaquilombo/public_html/csgo/jogadores/vetar/cadastro.php:28
+Stack trace:
+#0 /home1/revistaquilombo/public_html/csgo/jogadores/vetar/cadastro.php(28): mysqli_fetch_all(false, 1)
+#1 {main}
+  thrown in /home1/revistaquilombo/public_html/csgo/jogadores/vetar/cadastro.php on line 28
